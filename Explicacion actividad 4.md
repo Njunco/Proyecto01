@@ -1,4 +1,4 @@
-1. Actualizar la fecha de vencimiento de una tarea
+# 1. Actualizar la fecha de vencimiento de una tarea
 Historia de usuario: Como usuario, quiero poder actualizar la fecha de vencimiento de una tarea para reflejar el plazo correcto.
 
 Implementación:
@@ -12,7 +12,8 @@ Servicio: Se añadió el método updateDueDate en TaskService.
 Controlador: Se añadió el endpoint correspondiente en TaskController.
 ![image](https://github.com/Njunco/Proyecto01/assets/169322219/9d183ce7-922a-4c60-bd5f-51da8a624cfc)
 
-2. Asignar una tarea a un usuario específico
+
+# 2. Asignar una tarea a un usuario específico
 Historia de usuario: Como usuario, quiero poder asignar una tarea a un usuario específico para organizar mejor las responsabilidades.
 
 Implementación:
@@ -28,7 +29,7 @@ Controlador: Se añadió el endpoint correspondiente en TaskController.
 
 ![image](https://github.com/Njunco/Proyecto01/assets/169322219/7867dd9d-f52a-44b0-b155-3aff96ff4772)
 
-3. Agregar etiquetas a una tarea
+# 3. Agregar etiquetas a una tarea
 Historia de usuario: Como usuario, quiero poder agregar etiquetas a una tarea para organizar y categorizar mejor mis tareas.
 
 Implementación:
@@ -43,7 +44,7 @@ Controlador: Se añadió el endpoint correspondiente en TaskController.
 
 ![image](https://github.com/Njunco/Proyecto01/assets/169322219/9313780c-67d0-4463-9256-d5a07888b759)
 
-4. Priorizar una tarea
+# 4. Priorizar una tarea
 Historia de usuario: Como usuario, quiero poder establecer la prioridad de una tarea para poder gestionar mejor mis tareas más importantes.
 
 Implementación:
@@ -58,7 +59,7 @@ Servicio: Se añadió el método setPriority en TaskService.
 Controlador: Se añadió el endpoint correspondiente en TaskController.
 ![image](https://github.com/Njunco/Proyecto01/assets/169322219/0e30d69e-37ec-42a5-af0d-f0e01b3a72be)
 
-5. Agregar comentarios a una tarea
+# 5. Agregar comentarios a una tarea
 Historia de usuario: Como usuario, quiero poder agregar comentarios a una tarea para tener un registro de notas o discusiones relacionadas con la tarea.
 
 Implementación:
